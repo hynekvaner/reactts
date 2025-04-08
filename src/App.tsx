@@ -1,0 +1,1 @@
+export const App = () => (<p>Hiiiiiii!!! :3</p>);
